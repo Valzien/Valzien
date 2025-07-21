@@ -31,7 +31,7 @@ Saya percaya, **"Tenang bukan berarti diam, dan sibuk bukan berarti hidup."**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Valzien&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valzien&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valzien&layout=compact&theme=radical" width="45%" />\
 </p>
 
 ---
