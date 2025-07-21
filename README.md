@@ -23,15 +23,14 @@
 
 ---
 
-### 💻 Tools & Bahasa yang Saya Gunakan
+### 🛠️ Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-ef6c00?style=for-the-badge&logo=mediapipe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat-square&logo=tailwind-css)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat-square&logo=flask)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat-square&logo=opencv)
 
 ---
 
