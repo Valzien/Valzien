@@ -38,3 +38,5 @@ Saya percaya, **"Tenang bukan berarti diam, dan sibuk bukan berarti hidup."**
 
 ### ☕ Terima kasih sudah mampir!
 
+> _"Ngoding itu bukan sekadar logika, tapi jiwa lo yang lagi ngobrol sama mesin."_  
+> — Valzien ⚡
