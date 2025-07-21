@@ -1,12 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:92FE9D&height=200&section=header&text=Hi,%20I'm%20Valzien!%20👋&fontSize=40&fontColor=ffffff" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,6f00ff&height=200&section=header&text=Hi,%20I'm%20Valzien!%20👋&fontSize=40&fontColor=ffffff" />
 
 <!-- Bio -->
 <p align="center">
-  <b>Mahasiswa Teknik Informatika • AI Explorer</b><br>
-  Membangun solusi yang berdampak nyata lewat kode, dari simulasi keamanan hingga penerjemah gesture 🤖
+  <b>Mahasiswa Teknik Informatika • Python Dev • AI & Cyber Enthusiast</b><br>
+  Belajar ngoding sambil bikin project yang bukan cuma jalan, tapi punya makna. Dari gesture translator sampai simulasi sadap buat edukasi 👨‍💻
 </p>
 
 ---
@@ -16,19 +15,20 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat-square&logo=tailwind-css)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat-square&logo=flask)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow)
-![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat-square&logo=opencv)
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visual-studio-code)
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valzien&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valzien&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Valzien&show_icons=true&theme=radical" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valzien&theme=radical" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valzien&layout=compact&theme=radical" width="32%" />
 </p>
 
 ---
@@ -44,17 +44,17 @@
 ---
 
 ### 🚀 Highlight Project: Gesture Translator
-> Proyek Python + MediaPipe + AI untuk menerjemahkan bahasa isyarat ke suara real-time.
-- 🎯 Fokus pada aksesibilitas penyandang disabilitas
-- 🧠 Didukung model LSTM dan RandomForest
+> Proyek Python + MediaPipe + AI untuk menerjemahkan bahasa isyarat ke suara real-time.  
+- 🎯 Fokus pada aksesibilitas penyandang disabilitas  
+- 🧠 Didukung model LSTM dan RandomForest  
 - 🔊 Output suara dengan gTTS Bahasa Indonesia  
 🔗 [Lihat Proyek](https://github.com/Valzien/gesture_translation)
 
 ---
 
-### 🧠 Fun Fact
+### 🧠 Quote
 
-> “Koding bukan cuma tentang logika, tapi tentang empati — bagaimana bikin hidup orang lebih mudah lewat teknologi.”
+> “Gue gak ngejar jadi yang paling jago, tapi gue pastiin tiap baris kode gue punya tujuan.”
 
 ---
 
