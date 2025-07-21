@@ -16,23 +16,35 @@
 
 ### ✨ Tentang Saya
 
-- 🎓 Mahasiswa **Teknik Informatika** yang tertarik pada Machine Learning & Computer Vision   
-- 🛠️ Suka ngulik teknologi AI, tools keren, dan proyek-proyek open-source  
-- 📲 Kontak lewat IG [_Valzien](https://instagram.com/_Valzien)
+- 🎓 Mahasiswa **Teknik Informatika**  
+- 🤖 Tertarik pada bidang **AI, Computer Vision, dan Machine Learning**  
+- ⚒️ Aktif mengembangkan proyek open-source dan tools edukasi  
+- 📲 Hubungi saya lewat IG: [_Valzien](https://instagram.com/_Valzien)
+
+---
+
+### 💻 Tools & Bahasa yang Saya Gunakan
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-ef6c00?style=for-the-badge&logo=mediapipe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
 ---
 
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valzien&show_icons=true&theme=radical" width="32%"/>
-  <img src="https://streak-stats.demolab.com/?user=Valzien&theme=radical" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valzien&layout=compact&theme=radical" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Valzien&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valzien&layout=compact&theme=radical" width="49%"/>
 </p>
 
 ---
 
-### 🧠 Kata-kata Hari Ini
+### 🧠 Kata-kata Hari ini
 
 > _"Ngoding itu bukan sekadar logika, tapi jiwa lo yang lagi ngobrol sama mesin."_  
 > — Valzien ⚡
