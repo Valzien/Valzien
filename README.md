@@ -10,7 +10,7 @@
 
 ### 🧠 Siapa Saya?
 
-Halo! Saya Valzien, mahasiswa Teknik Informatika yang suka ngulik AI, pengenalan gesture, dan bikin project-project keren bareng Python dan React.  
+Halo! Saya Valzien, mahasiswa Teknik Informatika yang suka ngulik AI, Build Website, dan bikin project-project keren bareng Python dan React.  
 Saya percaya, **"Tenang bukan berarti diam, dan sibuk bukan berarti hidup."**
 
 ---
