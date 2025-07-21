@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,6f00ff&height=200&section=header&text=Hi,%20I'm%20Valzien!%20👋&fontSize=40&fontColor=ffffff" />
-
+  </p>
 <!-- Bio -->
 <p align="center">
   <b>Mahasiswa Teknik Informatika • Python Dev • AI & Cyber Enthusiast</b><br>
