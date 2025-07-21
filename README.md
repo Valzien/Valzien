@@ -1,49 +1,40 @@
-<!-- 🎯 Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,6f00ff&height=200&section=header&text=Halo,%20Saya%20Valzien!%20👋&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Halo,%20Saya%20Valzien!%20👋&fontSize=40&fontColor=ffffff&color=6f00ff,1c0033" />
 
-<!-- 📱 Sosial Media Bar -->
 <p align="center">
-  <a href="https://instagram.com/_Valzien" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://web.facebook.com/rival.adistyanugraha" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Valzien&color=blueviolet&style=for-the-badge" alt="Jumlah kunjungan profil"/>
+  <a href="https://instagram.com/_valzien"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://github.com/Valzien"><img src="https://komarev.com/ghpvc/?username=Valzien&label=Profile%20Views&color=blueviolet&style=flat" /></a>
 </p>
 
 ---
 
-### ✨ Tentang Saya
+### 🧠 Siapa Saya?
 
-- 🎓 Mahasiswa **Teknik Informatika**  
-- 🤖 Tertarik pada bidang **AI, Computer Vision, dan Machine Learning**  
-- ⚒️ Aktif mengembangkan proyek open-source dan tools edukasi  
-- 📲 Hubungi saya lewat IG: [_Valzien](https://instagram.com/_Valzien)
+Halo! Saya Valzien, mahasiswa Teknik Informatika yang suka ngulik AI, pengenalan gesture, dan bikin project-project keren bareng Python dan React.  
+Saya percaya, **"Tenang bukan berarti diam, dan sibuk bukan berarti hidup."**
 
 ---
 
-### 🛠️ Tools
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat-square&logo=tailwind-css)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat-square&logo=flask)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat-square&logo=opencv)
-
----
-
-### 📊 Statistik GitHub
+### ⚒️ Tools yang Saya Gunakan
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valzien&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valzien&layout=compact&theme=radical" width="49%"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 🧠 Kata-kata Hari ini
+### 📊 GitHub Statistik
 
-> _"Ngoding itu bukan sekadar logika, tapi jiwa lo yang lagi ngobrol sama mesin."_  
-> — Valzien ⚡
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Valzien&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valzien&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+### ☕ Terima kasih sudah mampir!
+
