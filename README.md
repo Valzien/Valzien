@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://instagram.com/_valzien"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://facebook.com/rival.adistyanugraha"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://facebook.com/rival.adistyanugraha.75"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=flat&logo=facebook&logoColor=white" /></a>
   <a href="https://github.com/Valzien"><img src="https://komarev.com/ghpvc/?username=Valzien&label=Profile%20Views&color=blueviolet&style=flat" /></a>
 </p>
 
