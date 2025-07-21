@@ -5,7 +5,7 @@
 
 <!-- Bio -->
 <p align="center">
-  <b>Dosen Jaringan • Python Enthusiast • AI Explorer</b><br>
+  <b>Mahasiswa Teknik Informatika • AI Explorer</b><br>
   Membangun solusi yang berdampak nyata lewat kode, dari simulasi keamanan hingga penerjemah gesture 🤖
 </p>
 
