@@ -8,14 +8,14 @@
 
 ---
 
-### 🧠 Siapa Saya?
+### Siapa Saya?
 
 Halo! Saya Valzien, mahasiswa Teknik Informatika yang suka ngulik AI, Build Website, dan bikin project-project keren bareng Python dan React.  
 Saya percaya, **"Tenang bukan berarti diam, dan sibuk bukan berarti hidup."**
 
 ---
 
-### ⚒️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,7 +29,7 @@ Saya percaya, **"Tenang bukan berarti diam, dan sibuk bukan berarti hidup."**
 
 ---
 
-### 📊 GitHub Statistik
+### GitHub Statistik
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Valzien&show_icons=true&theme=radical" width="45%" />
@@ -38,7 +38,7 @@ Saya percaya, **"Tenang bukan berarti diam, dan sibuk bukan berarti hidup."**
 
 ---
 
-### ☕ Terima kasih sudah mampir!
+### Terima kasih sudah mampir!
 
 > _"Ngoding itu bukan sekadar logika, tapi jiwa lo yang lagi ngobrol sama mesin."_  
 > — Valzien ⚡
